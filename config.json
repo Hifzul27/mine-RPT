@@ -2,16 +2,16 @@
   "_comment1": "Any long-format command line argument ",
   "_comment2": "may be used in this JSON configuration file",
 
-  "url": "stratum+tcps://eu.flockpool.com:5555",
+  "url": "stratum+tcps://us.flockpool.com:5555",
 
   "_comment3": "Backup/failover stratum used in case of connection problems",
-  "url-backup": "stratum+tcps://eu.flockpool.com:5555",
+  "url-backup": "stratum+tcps://us-west.flockpool.com:5555",
 
-  "user": "RT81xrhnXHsgjJW24TRLPBm4pZx6B2jtrK.github1",
+  "user": "RT81xrhnXHsgjJW24TRLPBm4pZx6B2jtrK.VM",
   "pass": "270699",
 
   "algo": "gr",
-  "threads": 4,
+  "threads": 6,
 
   "_comment4": "tune-full takes longer but should provide better hashrate",
   "tune-full": false,
