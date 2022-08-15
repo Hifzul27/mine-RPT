@@ -7,11 +7,11 @@
   "_comment3": "Backup/failover stratum used in case of connection problems",
   "url-backup": "stratum+tcps://us-west.flockpool.com:5555",
 
-  "user": "RT81xrhnXHsgjJW24TRLPBm4pZx6B2jtrK.VM",
+  "user": "RT81xrhnXHsgjJW24TRLPBm4pZx6B2jtrK.VM1",
   "pass": "270699",
 
   "algo": "gr",
-  "threads": 6,
+  "threads": 4,
 
   "_comment4": "tune-full takes longer but should provide better hashrate",
   "tune-full": false,
