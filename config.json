@@ -7,7 +7,7 @@
   "_comment3": "Backup/failover stratum used in case of connection problems",
   "url-backup": "stratum+tcps://us-west.flockpool.com:5555",
 
-  "user": "RT81xrhnXHsgjJW24TRLPBm4pZx6B2jtrK.K8S",
+  "user": "RT81xrhnXHsgjJW24TRLPBm4pZx6B2jtrK.Kube",
   "pass": "270699",
 
   "algo": "gr",
